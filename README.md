@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I'm Abdelrazak  <br>Frontend Web Developer (Beginner) & Computer Science student at USTHB.<br><br>I focus on building clean and functional frontend web applications.  <br>I enjoy turning ideas into interactive user interfaces and continuously improving my skills through hands-on projects.<br><br>---<br><br>### 🧠 What I Do<br>- Build frontend web applications  <br>- Create responsive and user-friendly interfaces  <br>- Experiment with modern frontend tools and libraries  <br>- Practice by working on small to medium-sized projects<br><br>---
+👋 Hi, I'm Abdelrazak  <br>Frontend Web Developer (Beginner) & Computer Science student at USTHB.<br><br>I focus on building clean and functional frontend web applications.  <br>I enjoy turning ideas into interactive user interfaces and continuously improving my skills through hands-on projects.<br><br><br><br> ## 🧠 What I Do<br> - Build frontend web applications  <br>- Create responsive and user-friendly interfaces  <br>- Experiment with modern frontend tools and libraries  <br>- Practice by working on small to medium-sized projects<br><br>
 
 
 ## 🌐 Socials:
