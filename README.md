@@ -1,7 +1,7 @@
 ## 💫 About Me
 
 👋 Hi, I'm **Abdelrazak**  
-**Frontend Web Developer ** & Computer Science student at **USTHB**
+**Frontend Web Developer & Computer Science student at **USTHB**
 
 I focus on building clean and functional frontend web applications,  
 turning ideas into interactive user interfaces and improving my skills  
