@@ -1,71 +1,100 @@
-## 💫 About Me
+# Hi there 👋 I'm Abdelrazak
 
-👋 Hi, I'm **Abdelrazak**  
-**Mobile Developer** & Computer Science student at **USTHB**
+<div align="center">
 
-I enjoy turning ideas into **mobile applications** with smooth, user-friendly interfaces.  
-I also love **frontend web dev**, exploring new tools, and learning new languages… basically anything that keeps me coding 😎
+### Mobile Developer • Computer Science Student @ USTHB
 
----
+Building modern, scalable and user-friendly mobile applications.
 
-## 🧠 What I Do
+📧 **Email:** [ladjiciabdelrazzak@gmail.com](mailto:ladjiciabdelrazzak@gmail.com)
 
-- Build **Android & iOS apps** using cross-platform frameworks  
-- Create responsive and interactive mobile user interfaces  
-- Experiment with **Flutter, React Native, and Kotlin/Swift**  
-- Practice by working on **small to medium web & mobile projects**  
+</div>
 
 ---
 
-## 🌐 Socials
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/_abdlerzz9) 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_abdlerzz9) 
-[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ladjiciabdelrazzak@gmail.com)  
+## 🚀 About Me
+
+I'm a Computer Science student at **USTHB** with a passion for building high-quality mobile applications.
+
+I enjoy transforming ideas into polished products with clean architecture, intuitive user experiences, and maintainable code.
+
+Currently I'm focused on:
+
+* 📱 Flutter Development
+* ⚡ Mobile UI/UX
+* 🏗 Clean Architecture
+* 🌐 Backend Development (Go & Node.js)
+* 🤖 AI-powered Mobile Applications
 
 ---
 
-## 💻 Tech Stack
+# 🛠 Tech Stack
 
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
-![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)  
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)  
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)  
-![Kotlin](https://img.shields.io/badge/kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white)  
-![Swift](https://img.shields.io/badge/swift-%23F05138.svg?style=for-the-badge&logo=swift&logoColor=white)  
-![Flutter](https://img.shields.io/badge/flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)  
-![React Native](https://img.shields.io/badge/reactnative-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white)  
+### Mobile
 
----
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=Flutter\&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge\&logo=Kotlin\&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-F05138?style=for-the-badge\&logo=Swift\&logoColor=white)
+![React Native](https://img.shields.io/badge/React%20Native-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
 
-## 📊 GitHub Stats
+### Frontend
 
-![](https://github-readme-stats.vercel.app/api?username=abdelrzz9&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=abdelrzz9&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrzz9&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript)
 
----
+### Backend
 
-## 🏆 GitHub Trophies
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge\&logo=Go\&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk\&logoColor=white)
 
-![](https://github-profile-trophy.vercel.app/?username=abdelrzz9&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### Languages
+
+C • C++ • Dart • Java • Kotlin • Swift • Go • TypeScript
 
 ---
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+## 📈 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=abdelrzz9&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdelrzz9&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=abdelrzz9&theme=tokyonight&hide_border=true"/>
+
+</p>
 
 ---
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=abdelrzz9&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## 🌱 Currently Learning
+
+* Advanced Flutter
+* Backend Engineering
+* System Design
+* Distributed Systems
+* DevOps
+* AI Integration
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=abdelrzz9&icon=0&color=0)](https://visitcount.itsvg.in)
+## 🤝 Let's Connect
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+* 📧 Email: **[ladjiciabdelrazzak@gmail.com](mailto:ladjiciabdelrazzak@gmail.com)**
+* 💬 Discord: **_abdlerzz9**
+* 📷 Instagram: **@_abdlerzz9**
+
+---
+
+<div align="center">
+
+### *"First solve the problem. Then write the code."*
+
+⭐ Thanks for visiting my profile!
+
+</div>
