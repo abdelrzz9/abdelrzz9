@@ -36,7 +36,7 @@ I'm a CS student at **USTHB** who enjoys turning ideas into real, working produc
 |---|---|
 | **MultiAI Mobile** | Flutter app with Clean Architecture, BLoC, and a FastAPI backend — focused on smart image caching and API reliability |
 | **Rynex** | Offline-first infinite canvas drawing app, inspired by Excalidraw, built for smooth cross-platform gestures |
-| **html-native-engine** | Open-source TypeScript compiler monorepo that transforms HTML/CSS into Flutter, Jetpack Compose, and SwiftUI |
+| **motarjim** | Open-source TypeScript compiler monorepo that transforms HTML/CSS into Flutter, Jetpack Compose, and SwiftUI |
 | **Mutqin** | Fully offline Quran memorization app with RTL-first design, Riverpod + Isar |
 
 <br>
